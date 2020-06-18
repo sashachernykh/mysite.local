@@ -30,8 +30,9 @@ a {
     color: chocolate;
     cursor: pointer;
     font-size: 20px;
-    font-family: Arial;
+    font-family: Arial, serif;
 }
+
 li:hover {
     background-color: burlywood;
 }
@@ -47,3 +48,5 @@ td {
     border: 1px solid #000;
     padding: 10px;
 }
+
+
